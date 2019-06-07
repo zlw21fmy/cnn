@@ -20,3 +20,5 @@ layers = [ ...
 ## lalalas
 
 # epochs = 30 
+
+# debug
