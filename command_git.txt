@@ -1,0 +1,8 @@
+git add .
+git commit 
+
+
+git commit -am "....."
+
+git log     check commit history
+git checkout 
