@@ -18,3 +18,5 @@ layers = [ ...
     regressionLayer];
 
 ## lalalas
+
+# epochs = 30 
