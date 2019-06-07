@@ -6,3 +6,9 @@ git commit -am "....."
 
 git log     check commit history
 git checkout 
+git diff
+
+git checkout -b branch_ame
+git merge
+
+git manual
